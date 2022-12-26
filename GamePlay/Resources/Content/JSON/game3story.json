@@ -1,0 +1,46 @@
+[
+	{
+		"type" : "background",
+		"img" : "Content/PNG/forest.jpg"
+	},
+	{
+		"type": "Narration",
+		"content" : " ???:(쿵쿵)"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "불곰",
+		"img" : "Content/PNG/bear.png",
+		"content" : "안녕? 부탁이있어"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "불곰",
+		"img" : "Content/PNG/bear.png",
+		"content" : "이런 부탁 해도 될지 모르겠지만,"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "불곰",
+		"img" : "Content/PNG/bear.png",
+		"content" : "내가 너무 배가 고파."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "불곰",
+		"img" : "Content/PNG/bear.png",
+		"content" : "따뜻한 날씨 때문에 겨울잠에 들지 못했는데, 근처에 먹을 게 없어."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "불곰",
+		"img" : "Content/PNG/bear.png",
+		"content" : "물도 같이 뜨거워져서 물고기가 많이 사라졌거든."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "불곰",
+		"img" : "Content/PNG/bear.png",
+		"content" : "내 음식을 찾는 것을 좀 도와줄래..?"
+	}
+]

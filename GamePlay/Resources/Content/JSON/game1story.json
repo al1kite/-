@@ -1,0 +1,46 @@
+[
+	{
+		"type" : "background",
+		"img" : "Content/PNG/forest.jpg"
+	},
+	{
+		"type": "Narration",
+		"content" : " ???:(도도도도)"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "다람쥐",
+		"img" : "Content/PNG/squirrel.png",
+		"content" : "안녕? 반가워!"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "다람쥐",
+		"img" : "Content/PNG/squirrel.png",
+		"content" : "내가 주로 먹는 도토리와 밤을 사람들이",
+	},
+		{
+		"type": "Dialogue",
+		"speaker" : "다람쥐",
+		"img" : "Content/PNG/squirrel.png",
+		"content" : " 자꾸 가져가면서 내가 먹을 게 사라져. ",
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "다람쥐",
+		"img" : "Content/PNG/squirrel.png",
+		"content" : "또 자꾸 내가 사는 곳에 사람들이 다니니까 예민해지더라고."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "다람쥐",
+		"img" : "Content/PNG/squirrel.png",
+		"content" : "혹시 날 도와줄 수 있어?"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "다람쥐",
+		"img" : "Content/PNG/squirrel.png",
+		"content" : "나에게 맞는 음식을 찾아줬으면 좋겠어.."
+	}
+]
