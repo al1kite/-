@@ -1,0 +1,40 @@
+[
+	{
+		"type" : "background",
+		"img" : "Content/PNG/forest.jpg"
+	},
+	{
+		"type": "Narration",
+		"content" : " ???:(깡충깡충)"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "새앙토끼",
+		"img" : "Content/PNG/rabbit.png",
+		"content" : " 안녕 나는 서늘하고 습기찬 곳을 좋아하는 새앙 토끼야,"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "새앙토끼",
+		"img" : "Content/PNG/rabbit.png",
+		"content" : "내가 살던 곳이 계속 더워지면서,"
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "새앙토끼",
+		"img" : "Content/PNG/rabbit.png",
+		"content" : "점점 산꼭대기로 올라가고 땅을 파 땅 속에서 살고 있어."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "새앙토끼",
+		"img" : "Content/PNG/rabbit.png",
+		"content" : "하지만 땅 속 생활이 길어지다보니 먹을 걸 구하기가 너무 어려워."
+	},
+	{
+		"type": "Dialogue",
+		"speaker" : "새앙토끼",
+		"img" : "Content/PNG/rabbit.png",
+		"content" : "내가 음식을 먹을 수 있게 도와줄래?"
+	}
+]
