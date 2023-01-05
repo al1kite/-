@@ -1,4 +1,6 @@
 # Find-it-Animal-Crossing
+![image](https://user-images.githubusercontent.com/102217402/210731262-107ab170-d51d-446b-83ad-5b53043135cf.png)
+
 해당 게임에서 miniStory1, miniStory2, miniStory3, subGame1, subGame2, subGame3 제작을 맡았습니다. <br>
 <br>
 <b>개발 기간</b> <br>
