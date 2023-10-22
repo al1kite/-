@@ -20,6 +20,8 @@ Level 2. 토끼를 테마로 하는 숨은 그림 찾기 진행 후 선을 그�
 
 Level 3. 곰을 테마로 숨은 그림 찾기 진행 후 곰을 조종하여 축구공을 던져 벌꿀을 깨는 미니 게임 삽입.
 
+
+## 플레이 화면 
 ![image](https://user-images.githubusercontent.com/102217402/210731262-107ab170-d51d-446b-83ad-5b53043135cf.png)
 ![image](https://user-images.githubusercontent.com/102217402/210731446-e220921c-0c39-4347-b95a-a02543d746dc.png)
 ![image](https://user-images.githubusercontent.com/102217402/210731460-46948a43-ebad-44f0-8e92-f9c167e7e82d.png)
