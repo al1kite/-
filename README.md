@@ -1,5 +1,6 @@
 # 찾아라! 동물의 숲!
 
+https://github.com/al1kite/critter-quest/assets/102217402/3a9e5c05-71c5-4193-a09b-524643f6df83
 
 ## 개발 기간 
 2021.02.21 – 2021.02.25 <br>
